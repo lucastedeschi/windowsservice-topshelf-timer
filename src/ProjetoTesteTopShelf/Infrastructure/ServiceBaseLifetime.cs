@@ -21,7 +21,7 @@ namespace ProjetoTesteTopShelf.Infrastructure
             try
             {
                 _timer.Change(Timeout.Infinite, Timeout.Infinite);
-                //IInício da execução da lógica 
+                //Início da execução
             }
             finally
             {
